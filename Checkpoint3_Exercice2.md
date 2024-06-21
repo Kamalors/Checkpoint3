@@ -67,7 +67,7 @@ Q.2.4.1 bareos-dir :Orchestrateur des opérations de sauvegard, bareos-sd:Gestio
 Port 22 (SSH) : Le port 22 SSH. Protocole ICMP : pour les pings. Protocole ICMPv6 :pour les pings IPv6. lo :loopback est accepté.
 
 ### Q.2.5.3 Quels types sont interdit ?
-Q.2.5.3 tout ce qui n'est pas explicitement accepté
+Q.2.5.3 tout ce qui n'est pas ACCEPT
 
 
 
