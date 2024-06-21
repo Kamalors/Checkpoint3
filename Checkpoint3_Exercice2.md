@@ -69,6 +69,9 @@ Port 22 (SSH) : Le port 22 SSH. Protocole ICMP : pour les pings. Protocole ICMPv
 ### Q.2.5.3 Quels types sont interdit ?
 Q.2.5.3 tout ce qui n'est pas ACCEPT
 
+### Q.2.5.4 Sur nftables, ajouter les règles nécessaires pour autoriser bareos à communiquer avec les clients bareos potentiellement présents sur l'ensemble des machines du réseau local sur lequel se trouve le serveur.
+
+![q 2 5 4](https://github.com/Kamalors/Checkpoint3/assets/162970946/80b941bd-ecbf-44c2-af34-172398044a46)
 
 
 # Partie 6
