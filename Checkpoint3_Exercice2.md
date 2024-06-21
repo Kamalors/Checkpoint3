@@ -30,6 +30,8 @@ Q.2.1.2 : Je préconise de mettre un mot de pas assez complexe et d’ajouter m
 
 ### Q.2.3.1 Quels sont les systèmes de fichiers actuellement montés ?
 
+Q.2.3.1 sda et sr0
+
 ![Q 2 3 1](https://github.com/Kamalors/Checkpoint3/assets/162970946/678d6cde-4caa-44eb-911a-f35e2af62141)
 
 ### Q.2.3.2 Quel type de système de stockage ils utilisent ?
