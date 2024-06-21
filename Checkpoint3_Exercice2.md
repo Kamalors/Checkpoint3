@@ -71,6 +71,12 @@ Q.2.5.3 tout ce qui n'est pas ACCEPT
 
 
 
+# Partie 6
+
+### Q.2.6.1 Lister les 10 derniers échecs de connexion
+
+![PARTIE 6](https://github.com/Kamalors/Checkpoint3/assets/162970946/0bda31d8-518e-4a7f-abfb-09ea75556731)
+
 
 
 
